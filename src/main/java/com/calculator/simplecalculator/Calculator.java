@@ -19,6 +19,7 @@ class Application
 {
     public static void main(String[] args) {
 
+
         Calculator simpleCalculator1 = new Calculator();
         int result1 = simpleCalculator1.addAToB(7, 12);
         System.out.println("Result A + B is: " + result1);
