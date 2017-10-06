@@ -30,7 +30,9 @@ class Application
         Calculator simpleCalculator3 = new Calculator();
         simpleCalculator3.someMethod();
 
-        System.out.println("Something");
+        System.out.println("Test222");
+        System.out.println("Test 3");
+
 
     }
 
